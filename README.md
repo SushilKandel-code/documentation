@@ -31,8 +31,6 @@ From this tutorial, I gained a clear understanding of how data flows within a Re
 
 ## Programming Challange
 
-### Programming challenge 1 (Source: Project Euler Problem 1)
-
 Problem 1
 Find the sum of first 1000 prime numbers
 ```
