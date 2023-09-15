@@ -10,9 +10,6 @@
 - [Complete an official online tutorial](#complete-an-official-online-tutorial)
 - [Insight summary of skills that I learned from completing an official online tutorial](#insight-summary-of-skills-that-i-learned-from-completing-an-official-online-tutorial)
 - [Programming Challange](#programming-challange)
- - [Programming challange 1(Source: Project Euler problem 1)](#programming-challange-1source-project-euler-problem-1)
- - [Programming Challange 2 (Source: Project Euler problem 7)](#programming-challange-2-source-project-euler-problem-7)
- - [Programming Challange 3 (Source: Project Euler problem 4)](#programming-challange-3-source-project-euler-problem-4)
 
 ## Take an online course
 ### What is typescript?
